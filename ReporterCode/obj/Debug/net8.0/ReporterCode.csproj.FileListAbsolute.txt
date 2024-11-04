@@ -1,0 +1,14 @@
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\bin\Debug\net8.0\ReporterCode.exe
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\bin\Debug\net8.0\ReporterCode.deps.json
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\bin\Debug\net8.0\ReporterCode.runtimeconfig.json
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\bin\Debug\net8.0\ReporterCode.dll
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\bin\Debug\net8.0\ReporterCode.pdb
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.AssemblyInfoInputs.cache
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.AssemblyInfo.cs
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.csproj.CoreCompileInputs.cache
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.dll
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\refint\ReporterCode.dll
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.pdb
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ReporterCode.genruntimeconfig.cache
+C:\Users\Shzcdt\RiderProjects\ReporterCode\ReporterCode\obj\Debug\net8.0\ref\ReporterCode.dll
